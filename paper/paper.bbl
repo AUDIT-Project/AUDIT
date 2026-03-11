@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{abnar2020quantifying}
+Samira Abnar and Willem Zuidema.
+\newblock Quantifying attention flow in transformers.
+\newblock {\em arXiv preprint arXiv:2005.00928}, 2020.
+
+\bibitem{monrose2000keystroke}
+Fabian Monrose and Aviel~D Rubin.
+\newblock Keystroke dynamics as a biometric for authentication.
+\newblock {\em Future Generation computer systems}, 16(4):351--359, 2000.
+
+\bibitem{platt1999probabilistic}
+John Platt et~al.
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods.
+\newblock {\em Advances in large margin classifiers}, 10(3):61--74, 1999.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in neural information processing systems}, pages
+  5998--6008, 2017.
+
+\end{thebibliography}
